@@ -72,6 +72,12 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
+import ros from '../assets/svg/skills/ros.svg'
+import pybullet from '../assets/svg/skills/Pybullet.svg'
+import mujoco from '../assets/svg/skills/mujoco.svg'
+import onnx from '../assets/svg/skills/onnx.svg'
+import cuda from '../assets/svg/skills/cuda.svg'
+
 
 import canva from '../assets/svg/skills/canva.svg'
 
@@ -83,6 +89,16 @@ export const skillsImage = (skill) => {
             return gcp;
         case 'html':
             return html;
+        case 'pybullet':
+            return pybullet;
+        case 'mujoco':
+            return mujoco;
+        case 'onnx':
+            return onnx
+        case 'cuda':
+            return cuda;
+        case 'ros':
+            return ros;
         case 'photoshop':
             return photoshop;
         case 'docker':

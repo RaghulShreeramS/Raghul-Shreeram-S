@@ -1,6 +1,6 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    title: "About Me",
+    description1: "My name's Raghul Shreeram. I love Robotics.",
+    description2: "I’m currently pursuing a Master of Science in Mechanical Engineering with a focus on Robotics and Controls at UC San Diego, after completing my studies in Engineering Design and Automotive Engineering at IIT Madras. My experience includes simulating autonomous vehicle collision dynamics at Siemens and developing vision-based reinforcement learning models for autonomous navigation at UCSD. I specialize in machine learning, simulation, and control systems, with applications in robotics, ADAS, and autonomous systems. I am passionate about advancing robotics perception, motion planning, and automotive engineering.",
     image: 2
 }

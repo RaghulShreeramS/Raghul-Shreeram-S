@@ -1,7 +1,7 @@
 export const socialsData = {
-    github: 'https://github.com/',
+    github: 'https://github.com/RaghulShreeramS?tab=repositories',
     facebook: 'https://www.facebook.com/',
-    linkedIn: 'https://www.linkedin.com/in',
+    linkedIn: 'https://www.linkedin.com/in/raghul-shreeram-sivakumaran-85813b219',
     instagram: 'https://www.instagram.com/',
     codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/',
@@ -10,5 +10,5 @@ export const socialsData = {
     medium: 'https://medium.com/@',
     stackOverflow: 'https://stackoverflow.com/users/',
     gitlab: 'https://gitlab.com/',
-    youtube: 'https://youtube.com/'
+    youtube: 'https://youtube.com/@raghulshreerams4835'
 }

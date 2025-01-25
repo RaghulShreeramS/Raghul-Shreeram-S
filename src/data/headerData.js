@@ -1,9 +1,11 @@
-import resume from '../assets/pdf/resume.pdf'
+import Raghul_Shreeram_Sivakumaran from '../assets/pdf/Raghul_Shreeram_Sivakumaran.pdf'
+import photo from '../assets/png/Profile_photo.jpg'
+
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
-    resumePdf: resume
+    name: 'Raghul Shreeram Sivakumaran',
+    title: "Robotics Researcher",
+    desciption:"I specialize in Perception, Planning, Control, and Reinforcement Learning for Robotics. Let's connect to explore exciting opportunities and discuss my work!",
+    image: photo,
+    resumePdf: Raghul_Shreeram_Sivakumaran
 }
