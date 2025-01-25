@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="288" viewBox="0 0 256 288">
+  <g clip-path="url(#clip0)">
+    <rect x="0" y="0" width="256" height="288" fill="#B0B0B0"/>
+    <circle cx="128" cy="144" r="120" fill="#0033A0"/>
+    <path d="M83.301 91.209L123.182 133.087L83.301 174.967L43.424 133.087L83.301 91.209Z" fill="#FFF"/>
+    <path d="M172.779 91.209L132.899 133.087L172.779 174.967L212.657 133.087L172.779 91.209Z" fill="#FFF"/>
+    <circle cx="128" cy="144" r="35" fill="#FFF"/>
+    <text x="128" y="162" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#0033A0">MuJoCo</text>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="256" height="288" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>
